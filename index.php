@@ -16,6 +16,10 @@
   </head>
 
   <body>
+  
+	<div class="deruino">
+		Сайт разработан при помоши DERUINO
+	</div>
 
   	<div class="alertblock">
   		<div class="close_alert">

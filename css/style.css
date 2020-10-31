@@ -133,6 +133,16 @@
 	padding-right: 0;
 }
 
+.deruino {
+	z-index: 9999;
+	position: fixed;
+	top: 5%;
+	left: 5%;
+	font-size: calc(1rem + 2vw);
+	color: white;
+	font-weight: bolder;
+}
+
 .show {
 	display: none;
 }
